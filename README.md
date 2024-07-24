@@ -20,13 +20,7 @@ In this project, we explore the effectiveness of kernel methods for classificati
 
 ## Usage
 
-1. **Navigate to Project Directory**: Use the `cd` command to navigate to the project directory.
-
-```bash
-cd "Downloads/Baillie_Ahamada_Code_and_Report"
-```
-
-2. **Execute Script**: Run the script using Python in your PowerShell terminal.
+**Execute Script**: Run the script using Python in your PowerShell terminal.
 
 ```bash
 python start.py
@@ -37,3 +31,5 @@ python start.py
 - If you encounter any errors during script execution, consider executing the `main.ipynb` file.
 - Ensure that you have Python installed on your system and that it is accessible from the command line.
 - If using Anaconda or Miniconda, make sure you have activated the appropriate environment before running the script.
+
+### Note : The data files are too heavy for github so this repo is meant as a archive for the code.
